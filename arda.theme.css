@@ -1,0 +1,18 @@
+/**
+ * @name         ?
+ * @description  zzz
+ * @author       arda
+ * @version      1846
+ * @source       https://github.com/dimdenGD/discord-oled-theme/blob/main/oled.theme.css
+ */
+
+@import url(https://raw.githubusercontent.com/arda1846/my-discord-theme/main/code.css);
+
+:root {
+	--background-primary: black;
+	--background-secondary: black;
+	--background-tertiary: black;
+	--background-secondary-alt: black;
+	--background-accent: black;
+	--activity-card-background: black;
+}
